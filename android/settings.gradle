@@ -1,0 +1,3 @@
+rootProject.name = 'groupBingo'
+
+include ':app'
